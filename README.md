@@ -23,11 +23,11 @@ The model is trained using transfer learning with MobileNetV2 and converted to T
 
 - 3 classes:
 
--- Halt
+      ✓ Halt
 
--- Freeze
+      ✓ Freeze
 
--- Pistol
+      ✓ Pistol
 
 - Images resized to 224 × 224
 
