@@ -90,5 +90,5 @@ Key steps:
 🧑‍💻 Author
 
 Jonathan Mishayel
-Research Project
-Embedded AI & TinyML
+
+Research Project | Embedded AI & TinyML
