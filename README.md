@@ -42,9 +42,15 @@ The model is trained using transfer learning with MobileNetV2 and converted to T
 
 - Regularization:
 
-    ✓ L2 Regularization
+      ✓ L2 Regularization
 
-    ✓ Dropout
+      ✓ Dropout
 
-    ✓ Batch Normalization
+      ✓ Batch Normalization
 
+## Results
+Model	           Accuracy	   Size
+Float (Keras)	  ~95%	    25 MB
+INT8 (TFLite)	  ~99%	    2.7 MB
+
+Quantization preserved model accuracy while significantly reducing size, enabling embedded deployment.
