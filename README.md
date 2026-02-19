@@ -49,7 +49,7 @@ The model is trained using transfer learning with MobileNetV2 and converted to T
       ✓ Batch Normalization
 
 ## Results
-<img width="372" height="136" alt="image" src="https://github.com/user-attachments/assets/4d082703-5865-405f-a03f-074e6e964109" />
+    <img width="372" height="136" alt="image" src="https://github.com/user-attachments/assets/4d082703-5865-405f-a03f-074e6e964109" />
 
 
 Quantization preserved model accuracy while significantly reducing size, enabling embedded deployment.
